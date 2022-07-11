@@ -1,6 +1,7 @@
 rosemary_tr_global_images_V12.5.8.0.RKLTRXM_20220531.0000.00_11.0_global\images\ --> lk.img
 
 I might write this commands but idk what some of them do like wt is get_token (token of what ???)
+Nwm i figured it out partially its toxen for unlocking bootloader? (Either part of it or it is sent to xiaomi's servers to get unlock code for bootloader.)
 
 fastboot reboot-bootloader
 fastboot reboot-recovery
